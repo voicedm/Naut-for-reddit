@@ -1,6 +1,6 @@
 # Naut
 
-Naut is a CSS theme you can use on [Reddit](http://www.Reddit.com). It's free to use, any Subreddit can use and edit it. Visit [/r/Naut](http://www.Reddit.com/r/Naut) to preview the theme.
+Naut is a CSS theme you can use on [Reddit](http://www.Reddit.com), specifically [Old Reddit](https://old.reddit.com). It's free to use, any Subreddit can use and edit it. Visit [/r/Naut](http://www.Reddit.com/r/Naut) to preview the theme.
 
 ![Naut 4.2](https://i.imgur.com/xbLfJS6.png)
 
